@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\bin\Debug\net5.0\helloVSCode.exe
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\bin\Debug\net5.0\helloVSCode.deps.json
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\bin\Debug\net5.0\helloVSCode.runtimeconfig.json
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\bin\Debug\net5.0\helloVSCode.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\bin\Debug\net5.0\helloVSCode.dll
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\bin\Debug\net5.0\ref\helloVSCode.dll
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\bin\Debug\net5.0\helloVSCode.pdb
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\obj\Debug\net5.0\helloVSCode.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\obj\Debug\net5.0\helloVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\obj\Debug\net5.0\helloVSCode.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\obj\Debug\net5.0\helloVSCode.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\obj\Debug\net5.0\helloVSCode.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\obj\Debug\net5.0\helloVSCode.dll
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\obj\Debug\net5.0\ref\helloVSCode.dll
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\obj\Debug\net5.0\helloVSCode.pdb
+C:\Users\Daniel\Desktop\Projects\c-projects\helloVSCode\obj\Debug\net5.0\helloVSCode.genruntimeconfig.cache
